@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RouterWithParameters.aspx.cs" Inherits="RouterWithServerData" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RouterWithParameters.aspx.cs" Inherits="VueWebForms.RouterWithParameters" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Router with Parameters Sample</h1>
     <p>Sample demonstrating using more router features.</p>
